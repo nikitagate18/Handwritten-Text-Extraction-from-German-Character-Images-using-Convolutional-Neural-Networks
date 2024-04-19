@@ -1,0 +1,1 @@
+# Handwritten-Text-Extraction-from-German-Character-Images-using-Convolutional-Neural-Networks
